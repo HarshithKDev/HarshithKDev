@@ -1,5 +1,4 @@
 ## Hi there 👋
-## 📄 My Resume
 
 <div align="center">
   
