@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### 📄 My Resume
-[Download Resume](https://github.com/HarshithKDev/HarshithKDev/blob/main/HARSHITH_K.pdf?raw=true)
+[⬇️ Download Resume](https://github.com/HarshithKDev/HarshithKDev/raw/main/HARSHITH_K.pdf)
 <!--
 **HarshithKDev/HarshithKDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
