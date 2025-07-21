@@ -8,7 +8,7 @@
   </a>
 
   <a href="https://github.com/HarshithKDev/HarshithKDev/raw/main/HARSHITH_K.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20Resume-28A745?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume"/>
+    <img src="https://img.shields.io/badge/📥%20Download%20Resume-28A745?style=for-the-badge&logoColor=white" alt="Download Resume"/>
   </a>
 
 </div>
