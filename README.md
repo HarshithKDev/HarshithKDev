@@ -22,10 +22,10 @@
 
 ## 💻 About Me
 
-- 🔭 Currently working on exciting projects
-- 🌱 Always learning new technologies
-- 👯 Looking to collaborate on interesting projects
-- 📫 How to reach me: [harshithkofficial@gmail.com](mailto:harshithkofficial@gmail.com)
+- Currently working on exciting projects
+- Always learning new technologies
+- Looking to collaborate on interesting projects
+- How to reach me: [harshithkofficial@gmail.com](mailto:harshithkofficial@gmail.com)
 
 ## 🛠️ Tech Stack
 
