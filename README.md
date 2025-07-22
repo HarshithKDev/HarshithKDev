@@ -33,13 +33,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Harshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshithKDev&show_icons=true&theme=default)
-
-</div>
 
 ---
 
