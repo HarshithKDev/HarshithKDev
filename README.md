@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 🔗 Quick Links
+## Quick Links
 
 <a href="https://github.com/HarshithKDev/HarshithKDev/blob/main/HARSHITH_K.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄%20View%20Resume-2196F3?style=for-the-badge&logoColor=white" alt="View Resume"/>
@@ -20,14 +20,14 @@
 
 ---
 
-## 💻 About Me
+## About Me
 
 - Currently working on exciting projects
 - Always learning new technologies
 - Looking to collaborate on interesting projects
 - How to reach me: [harshithkofficial@gmail.com](mailto:harshithkofficial@gmail.com)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
