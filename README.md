@@ -4,7 +4,7 @@
 
 ## Quick Links
 
-<a href="https://github.com/HarshithKDev/HarshithKDev/blob/main/HARSHITH_K.pdf" target="_blank">
+<a href="https://github.com/HarshithKDev/HarshithKDev/blob/main/Harshith_K.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄%20View%20Resume-2196F3?style=for-the-badge&logoColor=white" alt="View Resume"/>
 </a>
 &nbsp;&nbsp;
